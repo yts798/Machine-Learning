@@ -1,0 +1,6 @@
+implement and evaluate a data linkage system
+
+Abt and Buy both have product databases. In order to perform joint market research they need to link the same products in their databases. 
+Therefore the research team has manually linked a subset of the data in order to build a linkage algorithm to automate the remaining items to be linked. 
+This manually linked data is what you will base your work on in this assignment.
+However the real dataset is unknown to you, as it would be reality and this unknown data is what you will be assessed on.
