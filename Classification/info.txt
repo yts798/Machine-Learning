@@ -1,0 +1,4 @@
+ach year, the World Bank publishes the World Development Indicators which provide high quality and international comparable statistics about global development and the fight against poverty [1]. 
+As data scientists, we wish to understand how the information can be used to predict average lifespan in different countries. To this end, we have provided the world.csv file, which contains some 
+of the World Development Indicators for each country and the life.csv file containing information about the average lifespan for each country (based on data from the World Health Organization) [2].
+Each data file also contains a country name, country code and year as identifiers for each record. These may be used to link the two datasets but should not be considered features.
