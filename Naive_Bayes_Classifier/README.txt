@@ -1,0 +1,3 @@
+For the first part of the assignment(four functions required), the results can be recreated just by running the blocks one by one, and running the evaluation function will give the classification accuracy.
+
+For the second part, all codes are provided under the corresponding questions and are independent between each other. They should also be run one by one and the results are associated with the written report.
