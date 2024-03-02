@@ -1,0 +1,11 @@
+
+The data files are available via Canvas, and are described in a corresponding README.
+The recipes are collected from Food.com2, which is a platform that allows the user to publish recipes and comments on others’ recipes. In our dataset, each recipe contains:
+• recipe features: name, ingredients, steps, number of steps, and number of ingredients
+• text features: produced by various text encoding methods for name, ingredients, and steps. Each feature is provided as a single file with rows corresponding to the file of recipe features.
+• class label: the preparation time of a recipe duration (3 possible levels, 1, 2 or 3)
+You will be provided with training set and a test set. The training set contains the recipe features, text features, and the duration, which is the “class label” of our task. The test set only contains the recipe and text features without the label.
+The files provided are:
+• recipe train.csv: recipe features and class label of training instances.
+• recipe test.csv: recipe features of test instances.
+• recipe text features *.zip: preprocessed text features for training and test sets, 1 zipped file for each text encoding method. Details about using these text features are provided in README.
